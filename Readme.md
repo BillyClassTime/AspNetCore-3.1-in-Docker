@@ -9,11 +9,11 @@
 
 <p>Versiones en utilizadas </p>
 - DotNetCore version
-![](https://github.com/BillyClassTime/AspNetCore-3.1-in-Docker/blob/master/images/dockerversion.png)
-![](images/dotnetversion.png?raw=true)
+![dotnet version](https://github.com/BillyClassTime/AspNetCore-3.1-in-Docker/blob/master/images/dotnetversion.png)
+![dotnet version](/images/dotnetversion.png?raw=true)
 </p>
 - Docker version
-![](images/dockerversion.png?raw=true)
+![docker version](images/dockerversion.png?raw=true)
 
 ## Pasos antes del despliegue en Docker
 - Ejecutar la aplicación Razor web en local
