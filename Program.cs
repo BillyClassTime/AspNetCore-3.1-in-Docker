@@ -15,6 +15,7 @@ namespace iis
     {
         public static void Main(string[] args)
         {
+            // start the web app
             var host = CreateHostBuilder(args).Build();
             CreateHostBuilder(args).Build().Run();
             using(var scope = host.Services.CreateScope())
