@@ -1,5 +1,5 @@
 # Implementiing a Web App Project in Docker (Spanish/English)
-<p>El código utliza un proyecto web con las siguientes especificaciones<p>
+<p>El código utliza un proyecto web con las siguientes especificaciones</p>
 
 - Razor Pages web app with ASP.NET Core
     - Microsoft.VisualStudio.Web.CodeGeneration.Design
@@ -7,7 +7,7 @@
     - Microsoft.EntityFrameworkCore.SQLite
     - Microsoft.EntityFrameworkCore.SqlServer
 
-<p>Versiones en utilizadas </p>
+<p>Versiones en utilizadas:</p>
 - DotNetCore version
 
 ![dotnet version](/images/dotnetversion.png?raw=true)
@@ -44,7 +44,7 @@ To deploy (Publish a web project)
 dotnet publish -c Release -o ./content
 
 ##  Docker Section
-### Creamos un fichero Docker para esta implemtnación
+### Creamos un fichero Docker para esta implementación
 ``` 
 # Stage 1
 # Create a Initial Image
