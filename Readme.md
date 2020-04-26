@@ -9,6 +9,7 @@
 
 <p>Versiones en utilizadas </p>
 - DotNetCore version
+![](images/dockerversion.png)
 ![](images/dotnetversion.png?raw=true)
 </p>
 - Docker version
