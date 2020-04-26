@@ -1,4 +1,4 @@
-# Implementiing a Web App Project in Docker (Spanish/English)
+# Implementing a Web App Project in Docker (Spanish/English)
 <p>El código utliza un proyecto web con las siguientes especificaciones</p>
 
 - Razor Pages web app with ASP.NET Core
