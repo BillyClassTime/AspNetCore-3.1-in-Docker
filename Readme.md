@@ -9,7 +9,7 @@
 
 <p>Versiones en utilizadas </p>
 - DotNetCore version
-![](images/dockerversion.png)
+![](https://github.com/BillyClassTime/AspNetCore-3.1-in-Docker/blob/master/images/dockerversion.png)
 ![](images/dotnetversion.png?raw=true)
 </p>
 - Docker version
