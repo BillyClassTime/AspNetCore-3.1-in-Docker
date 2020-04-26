@@ -8,9 +8,9 @@
     - Microsoft.EntityFrameworkCore.SqlServer
 
 <p>Versiones en utilizadas </p>
-:::image type="DotNet Version" source="<./images/dotnetversion.png>" alt-text="<DotNet Version>":::
+![DotNet Version](images/dotnetversion.png?raw=true)
 </p>
-:::image type="Docker Tools="<./images/dockerversion.png>" alt-text="<Docker Version>":::
+![Docker Version](images/dockerversion.png?raw=true)
 
 ## Pasos antes del despliegue en Docker
 - Ejecutar la aplicación Razor web en local
